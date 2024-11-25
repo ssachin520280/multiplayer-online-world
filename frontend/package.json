@@ -1,0 +1,20 @@
+{
+  "name": "mow",
+  "version": "1.0.0",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "phaser": "^3.87.0",
+    "socket.io-client": "^4.8.1",
+    "vite": "^5.4.11"
+  }
+}
